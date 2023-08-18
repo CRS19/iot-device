@@ -6,8 +6,8 @@
 #include <ArduinoJson.h>
 
 const char* thisIdDevice = "SDM-001";
-const char* ssid = "FIBRAMAX_CRISTIAN";
-const char* password = "1725crs19";
+const char* ssid = "ssid";
+const char* password = "pass";
 const char* serverName = "http://192.168.123.100:3022/contacts/init";
 const char* thisDeviceNameCode = "SDM-";
 const char* JWT = "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7Il9pZCI6IjY0NjhhZThmYWI0NGM1YzYzZjQ2ZjdiOSIsImZ1bGxOYW1lIjoiRGV2aWNlQWNjb3VudCIsImlkRGV2aWNlIjoiaWREZXZpY2UiLCJpc0RldmljZSI6dHJ1ZSwiaXNQb3NzaWJsZVNpY2siOmZhbHNlLCJpc1NpY2siOmZhbHNlLCJtYWlsIjoiZGV2aWNlQGEuY29tIiwicm9sIjoiREVWSUNFIiwibmVhck5vZGVzIjpbXSwiX192IjowfSwiaWF0IjoxNjg1Mzc5MzE3LCJleHAiOjE2ODU0NjU3MTd9.HHd8u1TQkrY7wMT0jYQ2CcyDX1VkWHNUbdTAwRbTfDA";
